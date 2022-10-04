@@ -1,8 +1,3 @@
-# C.S Project :~ BANK MANAGEMENT { 12-A [Lalit, Harmohit, Devansh] }
-
-
-
-
 import mysql.connector as m
 import sys
 import time
